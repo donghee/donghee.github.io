@@ -4,7 +4,7 @@ title: Day2 비트 만들기.
 ---
 ## 180일 180작업 둘째날. 
 
-Korg Volca로 비트 만들기. 이미 있는 샘플로 **그냥** 찍어 봤다.  
+Korg 샘플러를 이용하여 비트 만들기. 기본 샘플로 **그냥** 찍어 봤다.  
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/184886288&amp;color=00cc11&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false">&nbsp;</iframe>
 
